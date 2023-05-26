@@ -61,4 +61,4 @@ This site was created as a submission to a [DevChallenges](https://devchallenges
 ## Contact
 
 - Website [sirbully.github.io](https://sirbully.github.io/)
-- GitHub [@sirbully](https://{github.com/sirbully})
+- GitHub [@sirbully](https://github.com/sirbully)
